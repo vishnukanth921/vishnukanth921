@@ -1,8 +1,5 @@
 # 👋 Hi, I'm G Vishnukanth Reddy
 
-New GitHub(Please go here to unlock my coding journey): https://github.com/vishnukanth921
-Thank you :)
-
 Welcome to my GitHub!
 I'm a passionate Computer Science graduate, driven by curiosity and the thrill of building things that matter.
 
