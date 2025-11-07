@@ -1,38 +1,32 @@
-# 👋 Hi, I'm G Vishnukanth Reddy
+# Hi, I'm G Vishnukanth Reddy 👋  
+### A passionate Java Developer specializing in Spring Boot and SQL.
 
-Welcome to my GitHub!
-I'm a passionate Computer Science graduate, driven by curiosity and the thrill of building things that matter.
+---
 
-## 🚀 About Me
-- 💡 Turning ideas into working software is what gets me up in the morning.
-- 🛡️ Cybersecurity enthusiast: I love exploring ethical hacking and building secure systems.
-- 🧑‍💻 Java Full Stack Developer in training: Currently training with Revature to master modern Java technologies and web development.
-- 🎨 “Code is my playground, curiosity is my fuel, and development is my art.”
+### 💡 About Me
+- 🎓 B.Tech CSE student with a strong interest in backend development.  
+- 💻 Currently building projects using **Spring Boot, REST APIs, and MySQL**.  
+- 🚀 Love solving problems using **Core Java and Data Structures**.  
+- 🌱 Always learning **Microservices** and **JWT Authentication**.  
+- 📫 Reach me at: [vishnukanthreddy@gmail.com](mailto:vishnukanthreddy@gmail.com)
 
-## 🌟 Highlights
-- **IBM Phemesoft Internship:** Built an Ethical Hacking AI Framework (AI + Cybersecurity, Automation).
-- **Automated Social Media Management Platform:** Developed a full-stack platform for automating posts, analytics, and scheduling.
-- **Ethical Hacking Project:** Led a hands-on project focused on penetration testing and vulnerability assessment (ask me for details!).
+---
 
-## 🛠️ Tech Stack
-**Languages & Frameworks:** Core Java, JDBC, SQL, HTML, CSS, JavaScript, TypeScript, REST API, Javalin, Maven, JWT Authentication, Spring (learning)  
-**Front-End:** HTML, CSS, Angular (upcoming)  
-**Tools:** Git, GitHub, DevOps basics  
-**Special interests:** Cybersecurity, Ethical Hacking
+### 🧰 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-## 🌱 Currently Learning
-- Advanced Full-Stack Development
-- Spring Framework
-- DevOps & CI/CD pipelines
-- Data Structures & Algorithms
+---
 
-## 📫 Connect with Me
-- **Email:** vishnukanthreddy@zohomail.in
-- **LinkedIn:** [vishnukanth-g-reddy](https://www.linkedin.com/in/vishnukanth-g-reddy)
+### 📈 GitHub Stats
+![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnukanth921&show_icons=true&theme=radical)
 
-## ⚡ Fun Facts
-- I thrive on challenges—whether it's cracking a security puzzle or architecting scalable web apps.
-- I believe continuous learning is the key to growth.
-- I enjoy collaborating and exchanging ideas with other tech enthusiasts!
+---
 
-> “Code is my playground, curiosity is my fuel, and development is my art.” 🎨💻
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnukanth-g-reddy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnukanth921)
